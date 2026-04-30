@@ -1,6 +1,6 @@
 # Mersenne Prime Cryptosystem Implementation
 
-## 📌 Overview
+## Overview
 This project implements a **public-key cryptosystem based on Mersenne primes**, inspired by the paper:
 
 > *A New Public-Key Cryptosystem via Mersenne Numbers* (Aggarwal, Joux, Prakash, Santha)
@@ -9,7 +9,7 @@ The system is designed as a **post-quantum cryptographic candidate**, relying on
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 
 - **Mersenne Prime**: A prime of the form \( p = 2^n - 1 \)
 - **Hamming Weight**: Number of `1`s in a binary string
@@ -18,7 +18,7 @@ The system is designed as a **post-quantum cryptographic candidate**, relying on
 
 ---
 
-## 🔐 Cryptosystem Structure
+## Cryptosystem Structure
 
 ### Key Generation
 - Select a Mersenne prime \( p = 2^n - 1 \)
@@ -39,7 +39,7 @@ The system is designed as a **post-quantum cryptographic candidate**, relying on
 
 ---
 
-## ⚙️ Implementation Details
+## Implementation Details
 
 - Language: Python (Jupyter Notebook)
 - Core operations:
@@ -53,7 +53,7 @@ The system is designed as a **post-quantum cryptographic candidate**, relying on
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -73,7 +73,7 @@ The system is designed as a **post-quantum cryptographic candidate**, relying on
 
 ---
 
-## 📊 Security Notes
+## Security Notes
 
 - Security relies on:
   - **Mersenne Low Hamming Combination Assumption**
@@ -82,20 +82,14 @@ The system is designed as a **post-quantum cryptographic candidate**, relying on
   - Known lattice-based attacks (with proper parameters)
 - Designed with **post-quantum considerations**
 
-⚠️ This is an **academic implementation** and not production-ready.
-
 ---
 
-## 📚 References
+## References
 
 - Aggarwal et al., *A New Public-Key Cryptosystem via Mersenne Numbers*
 - Course Project List 2026 (CPS)
 
----
 
-## 👨‍💻 Authors
-
-- [Your Name / Team Name]
 
 ---
 
