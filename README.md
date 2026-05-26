@@ -88,11 +88,4 @@ The system is designed as a **post-quantum cryptographic candidate**, relying on
 
 - Aggarwal et al., *A New Public-Key Cryptosystem via Mersenne Numbers*
 - Course Project List 2026 (CPS)
-
-
-
----
-
-## 📄 License
-
 This project is for educational purposes. Add a license if needed.
