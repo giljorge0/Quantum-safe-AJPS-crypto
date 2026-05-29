@@ -95,6 +95,3 @@ Setting $h = \lambda$ ensures that even the LLL attack accelerated by Grover's a
 | LLL-based (BCGN17) | $O(2^{2h})$ | $O(2^h)$ | Set $h = \lambda$ |
 | Meet-in-the-Middle (dBDJdW17) | $O\!\left(\binom{n-1}{h-1}^{1/2}\right)$ | $O\!\left(\binom{n-1}{h-1}^{1/3}\right)$ | Large $n$ |
 | Weak-key (BCGN17) | Polynomial if $F, G < \sqrt{p}$ | — | Uniform random key generation |
-
----
-Mersenne Numbers*. CRYPTO 2018. [ePrint 2017/481](https://eprint.iacr.org/2017/481)- Bernstein, D.J., Chou, T., Groot Bruinderink, L., Hülsing, A., Lange, T., Panny, L., Schwabe, P. (2017). *NTRU Prime*. (context for lattice-based comparison)
