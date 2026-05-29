@@ -97,34 +97,4 @@ Setting $h = \lambda$ ensures that even the LLL attack accelerated by Grover's a
 | Weak-key (BCGN17) | Polynomial if $F, G < \sqrt{p}$ | — | Uniform random key generation |
 
 ---
-
-## Requirements
-
-```
-python >= 3.9
-numpy
-scipy        # for statistical tests (Section 6)
-jupyter
-```
-
-Install:
-```bash
-pip install numpy scipy jupyter
-```
-
-Run the notebook:
-```bash
-jupyter notebook Mersenne_Prime_Cryptosystem.ipynb
-```
-
-Run the Reed-Muller standalone:
-```bash
-python reed_main_cryptosystem.py
-```
-
----
-
-## References
-
-- Aggarwal, D., Joux, A., Prakash, A., Santha, M. (2018). *A New Public-Key Cryptosystem via Mersenne Numbers*. CRYPTO 2018. [ePrint 2017/481](https://eprint.iacr.org/2017/481)
-- Bernstein, D.J., Chou, T., Groot Bruinderink, L., Hülsing, A., Lange, T., Panny, L., Schwabe, P. (2017). *NTRU Prime*. (context for lattice-based comparison)
+Mersenne Numbers*. CRYPTO 2018. [ePrint 2017/481](https://eprint.iacr.org/2017/481)- Bernstein, D.J., Chou, T., Groot Bruinderink, L., Hülsing, A., Lange, T., Panny, L., Schwabe, P. (2017). *NTRU Prime*. (context for lattice-based comparison)
