@@ -8,14 +8,6 @@ The security relies on the hardness of the **Mersenne Low Hamming Combination (M
 
 ---
 
-## Repository Structure
-
-| File | Description |
-|------|-------------|
-| `Mersenne_Prime_Cryptosystem.ipynb` | Main notebook — full system walkthrough from basics to KEM |
-| `reed_main_cryptosystem.py` | Standalone KEM using Reed-Muller RM(m,1) error correction |
-
----
 
 ## System Overview
 
